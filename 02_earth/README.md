@@ -61,7 +61,3 @@ Use mouse controls to interact with the visualization:
 ## Credits
 
 Textures sourced from NASA's Visual Earth project.
-
-## License
-
-MIT
